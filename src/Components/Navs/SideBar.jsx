@@ -26,7 +26,7 @@ const menuItems = [
     icon: GitPullRequestCreateIcon,
     path: "/tyrerequested",
   },
-];
+]; 
 
 const SideBar = () => {
   const [isOpen, setIsOpen] = useState(false);
