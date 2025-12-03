@@ -77,7 +77,7 @@ const SideBar = () => {
               className="h-10 w-10"
             />
             <span className="text-xl font-bold text-orange-600 ml-2">
-              RevoZen
+              TreadX
             </span>
           </div>
 

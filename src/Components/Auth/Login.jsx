@@ -79,7 +79,7 @@ function LoginSignup() {
           <div className="mb-8">
             <img src={Revozen} alt="Revozen Logo" className="h-16 mx-auto" />
             <h1 className="text-3xl mt-3 text-center text-gray-800">
-              Welcome to the Revozen Partner Management
+              Welcome to the TreadX Partner Management
             </h1>
           </div>
 
