@@ -15,7 +15,7 @@ const Header = () => {
         <div className="flex items-center gap-2">
           <div>
             <h1 className="text-lg font-bold text-gray-800 mb-0">
-              Welcome back, Admin!
+              Welcome back, Sabari!
             </h1>
             <p className="text-gray-500 text-xs">
               Dashboard Overview &mdash; {today}
@@ -23,7 +23,7 @@ const Header = () => {
           </div>
           <div className="flex items-center gap-2 mt-1">
             <span className="bg-blue-100 text-blue-700 px-2 py-0.5 rounded-full text-xs font-semibold">
-              Admin Panel
+              User Panel
             </span>
             <span className="bg-green-100 text-green-700 px-2 py-0.5 rounded-full text-xs font-semibold">
               All Systems Operational

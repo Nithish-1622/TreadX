@@ -5,7 +5,6 @@ import DashBoard from "../Components/DashBoard/DashBoard";
 import EditShop from "../Components/EditShop/EditShop";
 import InventoryManagement from "../Components/InventoryManagement/InventoryStock";
 import OrderManagement from "../Components/OrderManagement/OrderIndex";
-import Notifications from "../Components/Notifications/Index";
 import TyresRequested from "../Components/TyresRequested/TyresRequested";
 import BillingInput from "../Components/Billing/BillingInput";
 const InitialRouter = () => (
@@ -15,7 +14,6 @@ const InitialRouter = () => (
     <Route path="/editshop" element={<EditShop />} />
     <Route path="/inventory" element={<InventoryManagement />} />
     <Route path="/orders" element={<OrderManagement />} />
-    <Route path="/notifications" element={<Notifications />} />
   <Route path="/tyrerequested" element={<TyresRequested />} />
   <Route path="/billing" element={<BillingInput />} />
   </Routes>
